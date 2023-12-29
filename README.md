@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif
 )]
-<h1 align="center">Welcome 👋, 'I'm Tanvir Ahmed Palok</h1>
+<h1 align="center">Welcome 👋, I'm Tanvir Ahmed Palok</h1>
 <h3 align="center">Enthusiastic Frontend Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
