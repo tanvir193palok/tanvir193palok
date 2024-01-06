@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir193palok&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir193palok" /> </p>
 
-- 🔭 I’m currently working on [PixelHarmony](https://github.com/tanvir193palok/PixelHarmony)
+- 🔭 I’m currently working on [Recipe_App](https://github.com/tanvir193palok/Recipe_App)
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 👨‍💻 All of my projects are available at [https://tanvir-ahmed-palok-portfolio.netlify.app/](https://tanvir-ahmed-palok-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://tanvir-ahmed-palok-portfolio.netlify.app/)
 
 - 📫 How to reach me **tanvir.ahmed.palok@g.bracu.ac.bd**
 
