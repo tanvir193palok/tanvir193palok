@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://tanvir-ahmed-palok-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://tanvir-ahmed-palok.vercel.app/)
 
 - 📫 How to reach me **tanvir.ahmed.palok@g.bracu.ac.bd**
 
