@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Recipe_App](https://github.com/tanvir193palok/Recipe_App)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **open source project**
 
